@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Tovuq ko'kragi (pishgan)",
+    "kcal": 165,
+    "protein": 31,
+    "fat": 3.6,
+    "carb": 0
+  },
+  {
+    "name": "Tovuq soni (pishgan, terisiz)",
+    "kcal": 209,
+    "protein": 26,
+    "fat": 10,
+    "carb": 0
+  },
+  {
+    "name": "Mol go'shti (yogsiz, pishgan)",
+    "kcal": 250,
+    "protein": 26,
+    "fat": 15,
+    "carb": 0
+  },
+  {
+    "name": "Qo'y go'shti (pishgan)",
+    "kcal": 294,
+    "protein": 25,
+    "fat": 21,
+    "carb": 0
+  },
+  {
+    "name": "Baliq (treska) pishgan",
+    "kcal": 105,
+    "protein": 23,
+    "fat": 1,
+    "carb": 0
+  },
+  {
+    "name": "Losos pishgan",
+    "kcal": 208,
+    "protein": 22,
+    "fat": 13,
+    "carb": 0
+  },
+  {
+    "name": "Tuxum (1 dona ~50 g)",
+    "kcal": 70,
+    "protein": 6,
+    "fat": 5,
+    "carb": 0.6
+  },
+  {
+    "name": "Tvorog 5%",
+    "kcal": 145,
+    "protein": 17,
+    "fat": 5,
+    "carb": 3
+  },
+  {
+    "name": "Kefir 1%",
+    "kcal": 40,
+    "protein": 3.2,
+    "fat": 1,
+    "carb": 4.5
+  },
+  {
+    "name": "Grechka (pishgan)",
+    "kcal": 110,
+    "protein": 4.2,
+    "fat": 0.6,
+    "carb": 23
+  },
+  {
+    "name": "Guruch (pishgan)",
+    "kcal": 130,
+    "protein": 2.7,
+    "fat": 0.3,
+    "carb": 28
+  },
+  {
+    "name": "Suli bo'tqasi (pishgan)",
+    "kcal": 70,
+    "protein": 2.4,
+    "fat": 1.4,
+    "carb": 12
+  },
+  {
+    "name": "Qora non",
+    "kcal": 220,
+    "protein": 8,
+    "fat": 2,
+    "carb": 42
+  },
+  {
+    "name": "Kartoshka (pishgan)",
+    "kcal": 80,
+    "protein": 2,
+    "fat": 0.1,
+    "carb": 18
+  },
+  {
+    "name": "Shirin kartoshka",
+    "kcal": 90,
+    "protein": 2,
+    "fat": 0.1,
+    "carb": 21
+  },
+  {
+    "name": "Brokkoli (bug'da)",
+    "kcal": 35,
+    "protein": 2.4,
+    "fat": 0.4,
+    "carb": 7
+  },
+  {
+    "name": "Karam (oq)",
+    "kcal": 25,
+    "protein": 1.3,
+    "fat": 0.1,
+    "carb": 6
+  },
+  {
+    "name": "Bodring",
+    "kcal": 15,
+    "protein": 0.7,
+    "fat": 0.1,
+    "carb": 3
+  },
+  {
+    "name": "Pomidor",
+    "kcal": 18,
+    "protein": 0.9,
+    "fat": 0.2,
+    "carb": 3.9
+  },
+  {
+    "name": "Sabzi (pishgan)",
+    "kcal": 35,
+    "protein": 0.8,
+    "fat": 0.2,
+    "carb": 8
+  },
+  {
+    "name": "Piyoz (pishgan)",
+    "kcal": 40,
+    "protein": 1.1,
+    "fat": 0.1,
+    "carb": 9
+  },
+  {
+    "name": "Zaytun yog'i",
+    "kcal": 884,
+    "protein": 0,
+    "fat": 100,
+    "carb": 0
+  },
+  {
+    "name": "Pista yog'i",
+    "kcal": 884,
+    "protein": 0,
+    "fat": 100,
+    "carb": 0
+  },
+  {
+    "name": "Bodom",
+    "kcal": 579,
+    "protein": 21,
+    "fat": 50,
+    "carb": 22
+  },
+  {
+    "name": "Pista",
+    "kcal": 562,
+    "protein": 20,
+    "fat": 45,
+    "carb": 28
+  },
+  {
+    "name": "Yong'oq",
+    "kcal": 654,
+    "protein": 15,
+    "fat": 65,
+    "carb": 14
+  },
+  {
+    "name": "Keshyu",
+    "kcal": 553,
+    "protein": 18,
+    "fat": 44,
+    "carb": 30
+  },
+  {
+    "name": "Yer yong'og'i",
+    "kcal": 567,
+    "protein": 26,
+    "fat": 49,
+    "carb": 16
+  },
+  {
+    "name": "Chia urug'i",
+    "kcal": 486,
+    "protein": 17,
+    "fat": 31,
+    "carb": 42
+  },
+  {
+    "name": "Olma",
+    "kcal": 52,
+    "protein": 0.3,
+    "fat": 0.2,
+    "carb": 14
+  },
+  {
+    "name": "Banan",
+    "kcal": 89,
+    "protein": 1.1,
+    "fat": 0.3,
+    "carb": 23
+  },
+  {
+    "name": "Apelsin",
+    "kcal": 47,
+    "protein": 0.9,
+    "fat": 0.1,
+    "carb": 12
+  },
+  {
+    "name": "Nok",
+    "kcal": 57,
+    "protein": 0.4,
+    "fat": 0.1,
+    "carb": 15
+  },
+  {
+    "name": "Uzum",
+    "kcal": 69,
+    "protein": 0.7,
+    "fat": 0.2,
+    "carb": 18
+  },
+  {
+    "name": "Anor",
+    "kcal": 83,
+    "protein": 1.7,
+    "fat": 1.2,
+    "carb": 19
+  },
+  {
+    "name": "Ananas",
+    "kcal": 50,
+    "protein": 0.5,
+    "fat": 0.1,
+    "carb": 13
+  },
+  {
+    "name": "Xurmo",
+    "kcal": 282,
+    "protein": 2.5,
+    "fat": 0.4,
+    "carb": 75
+  },
+  {
+    "name": "Mayiz",
+    "kcal": 299,
+    "protein": 3.1,
+    "fat": 0.5,
+    "carb": 79
+  },
+  {
+    "name": "Quritilgan o'rik",
+    "kcal": 241,
+    "protein": 3.4,
+    "fat": 0.5,
+    "carb": 63
+  },
+  {
+    "name": "Qora shokolad 85%",
+    "kcal": 600,
+    "protein": 7.8,
+    "fat": 53,
+    "carb": 19
+  },
+  {
+    "name": "Asal",
+    "kcal": 304,
+    "protein": 0.3,
+    "fat": 0,
+    "carb": 82
+  },
+  {
+    "name": "Qizil loviya",
+    "kcal": 127,
+    "protein": 9,
+    "fat": 0.5,
+    "carb": 23
+  },
+  {
+    "name": "Mosh (pishgan)",
+    "kcal": 105,
+    "protein": 7,
+    "fat": 0.4,
+    "carb": 19
+  },
+  {
+    "name": "No'xat (pishgan)",
+    "kcal": 164,
+    "protein": 9,
+    "fat": 2.6,
+    "carb": 27
+  },
+  {
+    "name": "Fasol oq (pishgan)",
+    "kcal": 139,
+    "protein": 9.7,
+    "fat": 0.6,
+    "carb": 25
+  },
+  {
+    "name": "Qora fasol",
+    "kcal": 132,
+    "protein": 8.9,
+    "fat": 0.5,
+    "carb": 23
+  },
+  {
+    "name": "Soya (pishgan)",
+    "kcal": 173,
+    "protein": 16.6,
+    "fat": 9,
+    "carb": 9.9
+  },
+  {
+    "name": "Qovoq (pishgan)",
+    "kcal": 20,
+    "protein": 1,
+    "fat": 0.1,
+    "carb": 5
+  },
+  {
+    "name": "Baqlajon (pishgan)",
+    "kcal": 35,
+    "protein": 1,
+    "fat": 0.2,
+    "carb": 8
+  },
+  {
+    "name": "Bul'g'or qalampiri",
+    "kcal": 31,
+    "protein": 1,
+    "fat": 0.3,
+    "carb": 6
+  },
+  {
+    "name": "Ismaloq",
+    "kcal": 23,
+    "protein": 2.9,
+    "fat": 0.4,
+    "carb": 3.6
+  },
+  {
+    "name": "Shampinyon",
+    "kcal": 22,
+    "protein": 3.1,
+    "fat": 0.3,
+    "carb": 3.3
+  },
+  {
+    "name": "Tovuq sho'rva",
+    "kcal": 40,
+    "protein": 3.5,
+    "fat": 1.2,
+    "carb": 3
+  },
+  {
+    "name": "Borsh",
+    "kcal": 49,
+    "protein": 2,
+    "fat": 2,
+    "carb": 7
+  },
+  {
+    "name": "Palov (osh)",
+    "kcal": 180,
+    "protein": 6,
+    "fat": 7,
+    "carb": 24
+  },
+  {
+    "name": "Lag'mon (pishgan)",
+    "kcal": 130,
+    "protein": 4.5,
+    "fat": 2,
+    "carb": 21
+  },
+  {
+    "name": "Manti (mol go'shti)",
+    "kcal": 230,
+    "protein": 10,
+    "fat": 9,
+    "carb": 28
+  },
+  {
+    "name": "Somsa (mol go'shti)",
+    "kcal": 290,
+    "protein": 12,
+    "fat": 15,
+    "carb": 25
+  },
+  {
+    "name": "Makaroni pishgan",
+    "kcal": 131,
+    "protein": 5,
+    "fat": 1.1,
+    "carb": 25
+  },
+  {
+    "name": "Pitsa (margherita)",
+    "kcal": 250,
+    "protein": 11,
+    "fat": 8,
+    "carb": 33
+  },
+  {
+    "name": "Burger (oddiy)",
+    "kcal": 295,
+    "protein": 14,
+    "fat": 12,
+    "carb": 33
+  },
+  {
+    "name": "Sho'rak sabzavotli",
+    "kcal": 70,
+    "protein": 2.5,
+    "fat": 2,
+    "carb": 10
+  },
+  {
+    "name": "Guruch (quruq)",
+    "kcal": 360,
+    "protein": 7,
+    "fat": 1,
+    "carb": 80
+  },
+  {
+    "name": "Grechka (quruq)",
+    "kcal": 343,
+    "protein": 13.3,
+    "fat": 3.4,
+    "carb": 71.5
+  }
+]

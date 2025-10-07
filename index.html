@@ -1,0 +1,28 @@
+<!doctype html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fasting × Food — PRO</title><link rel="manifest" href="manifest.json"><link rel="stylesheet" href="styles.css"><meta name="theme-color" content="#0f172a">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script></head>
+<body><div class="container"><div class="header"><div class="brand"><img src="assets/logo.svg"><div class="title">FASTING × FOOD — <b>PRO</b></div></div>
+<div class="tabs"><div class="tab active" data-id="dashboard">Dashboard</div><div class="tab" data-id="log">Ovqat jurnali</div><div class="tab" data-id="library">Kutubxona</div><div class="tab" data-id="community">Blog & Chat</div><div class="tab" data-id="profile">Profil</div></div></div>
+<div class="kpis"><div class="kpi"><h3>Kkal (bugun)</h3><div class="big" id="kpi-k">0</div><div class="progress"><span id="prog-k"></span></div></div>
+<div class="kpi"><h3>Oqsil (g)</h3><div class="big" id="kpi-p">0</div><div class="progress"><span id="prog-p"></span></div></div>
+<div class="kpi"><h3>Yog' (g)</h3><div class="big" id="kpi-f">0</div><div class="progress"><span id="prog-f"></span></div></div>
+<div class="kpi"><h3>Uglevod (g)</h3><div class="big" id="kpi-c">0</div><div class="progress"><span id="prog-c"></span></div></div></div>
+<div id="dashboard" class="section active"><div class="grid"><div class="card"><h2>Oxirgi 30 kun — kkal trendi</h2><div id="chart30" style="height:300px"></div></div>
+<div class="card"><h2>Bugungi makro</h2><div id="donut" style="height:300px"></div></div></div><div class="grid"><div class="card"><h2>Haftalik makro (stacked)</h2><div id="stackedWeek" style="height:320px"></div></div>
+<div class="card"><h2>Til / Language</h2><div class="controls"><select id="langSelect"><option value="uz">O'zbek</option><option value="ru">Русский</option><option value="en">English</option></select>
+<button class="btn" id="btnClear">Ma'lumotni tozalash</button></div><div class="badge">PWA: offline ishlaydi • JSON kutubxona • Mobilga mos</div></div></div></div>
+<div id="log" class="section"><div class="card"><h2>Ovqat kiritish</h2><div class="controls"><label>Sana <input type="date" id="log-date"></label>
+<label>Nom <input id="food-name" list="products" placeholder="Masalan: Guruch, Tovuq, Tuxum..."></label><datalist id="products"></datalist>
+<label>Gram <input id="food-grams" type="number" placeholder="g/ml"></label><button id="btn-add" class="btn">Qo‘shish</button></div>
+<table class="table"><thead><tr><th>Nom</th><th class="right">g</th><th class="right">kkal</th><th class="right">P</th><th class="right">F</th><th class="right">C</th><th class="right">—</th></tr></thead>
+<tbody id="log-body"></tbody></table><div id="log-totals" style="margin-top:8px"></div></div></div>
+<div id="library" class="section"><div class="card"><h2>Mahsulotlar kutubxonasi</h2><div class="controls"><input id="lib-search" placeholder="Qidiruv…"><span class="badge">JSON 80+ demo — 1500+ bilan almashtirish mumkin</span></div>
+<table class="table"><thead><tr><th>Nom</th><th class="right">kkal/100g</th><th class="right">P</th><th class="right">F</th><th class="right">C</th><th class="right">Tez qo‘shish</th></tr></thead>
+<tbody id="lib-body"></tbody></table></div></div>
+<div id="community" class="section"><div class="card"><h2>Blog</h2><div class="controls"><input id="postText" placeholder="Bugungi natijam…"><input type="file" id="postImg"><button id="btnPost" class="btn">Yuklash</button></div><div id="posts" class="list"></div></div>
+<div class="card"><h2>Chat</h2><div id="chat" class="chat"></div><div class="controls"><input id="chatMsg" placeholder="Xabar yozing…"><button id="btnSend" class="btn">Yuborish</button></div></div></div>
+<div id="profile" class="section"><div class="card"><h2>Profil</h2><div class="controls"><input id="pName" placeholder="Ism"><select id="pGender"><option value="male">Erkak</option><option value="female">Ayol</option></select>
+<input id="pAge" type="number" placeholder="Yosh"><input id="pHeight" type="number" placeholder="Bo‘y (sm)"><input id="pWeight" type="number" placeholder="Vazn (kg)"><input id="pGoal" type="number" placeholder="Maqsad vazn (kg)">
+<button id="btnSaveProfile" class="btn">Saqlash</button></div><div id="bmiBox" class="badge"></div></div></div>
+<footer>© Fasting × Food — PRO • v8 Cloud-ready. InfinityFree: faqat frontendni yuklang; backend uchun Firebase tavsiya etiladi.</footer></div>
+<script type="module" src="app.js"></script></body></html>

@@ -1,0 +1,53 @@
+{
+  "uz": {
+    "welcome": "Xush kelibsiz",
+    "dashboard": "Dashboard",
+    "journal": "Ovqat jurnali",
+    "library": "Kutubxona",
+    "profile": "Profil",
+    "chat": "Chat",
+    "blog": "Blog",
+    "today_kcal": "Kkal (bugun)",
+    "protein": "Oqsil (g)",
+    "fat": "Yog' (g)",
+    "carb": "Uglevod (g)",
+    "add": "Qo‘shish",
+    "name": "Nom",
+    "grams": "Gram",
+    "date": "Sana"
+  },
+  "ru": {
+    "welcome": "Добро пожаловать",
+    "dashboard": "Панель",
+    "journal": "Журнал питания",
+    "library": "База продуктов",
+    "profile": "Профиль",
+    "chat": "Чат",
+    "blog": "Блог",
+    "today_kcal": "Ккал (сегодня)",
+    "protein": "Белки (г)",
+    "fat": "Жиры (г)",
+    "carb": "Углеводы (г)",
+    "add": "Добавить",
+    "name": "Название",
+    "grams": "Грамм",
+    "date": "Дата"
+  },
+  "en": {
+    "welcome": "Welcome",
+    "dashboard": "Dashboard",
+    "journal": "Food log",
+    "library": "Library",
+    "profile": "Profile",
+    "chat": "Chat",
+    "blog": "Blog",
+    "today_kcal": "Kcal (today)",
+    "protein": "Protein (g)",
+    "fat": "Fat (g)",
+    "carb": "Carb (g)",
+    "add": "Add",
+    "name": "Name",
+    "grams": "Grams",
+    "date": "Date"
+  }
+}
